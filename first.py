@@ -21,16 +21,36 @@
 
 # Relational operators
 
-a = 50
-b = 45
+# a = 50
+# b = 45
 
-print(a == b)
-print(a < b)
-print(a > b)
-print(a / b)
+# print(a == b)
+# print(a < b)
+# print(a > b)
+# print(a / b)
 
 # Assignment Operators
 
-num = 10
-num = num + 10
-print(num)
+# num = 10
+# num = num + 10
+# print(num)
+
+# Types Of Operators
+
+# Assignment Operators
+# Type Casting
+
+# a = 3.07
+# a = int(a)
+
+# print(type(a))
+
+# a = 3.78
+# a = str(a)
+# print(type(a))
+
+a = 3.78
+
+a = int(a)
+
+print(type(a))

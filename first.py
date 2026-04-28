@@ -84,7 +84,7 @@
 # WAP to input two int numbers a and b. print True if a is greater 
 # than or equal to b. 
 
-a = int (input("num1 : "))
-b = int (input("num2 : "))
+# a = int (input("num1 : "))
+# b = int (input("num2 : "))
 
-print(a >= b)
+# print(a >= b)

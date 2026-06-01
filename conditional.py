@@ -63,9 +63,12 @@
 #     print("C is greater")
 
 # WAP to check the num is multiple of  7 or not?
-num = int(input("Enter Number : "))
+# num = int(input("Enter Number : "))
 
-if(num % 5 == 0):
-    print("multiple of 5")
-else:
-    print("Not")            
+# if(num % 5 == 0):
+#     print("multiple of 5")
+# else:
+#     print("Not")            
+
+
+   

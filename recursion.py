@@ -1,0 +1,7 @@
+# Recursion: When a function calls itself repeatedly
+
+def show (n):
+    if(n == 0):  #Base case
+        return 
+    print(n)
+    show(n-1)         
